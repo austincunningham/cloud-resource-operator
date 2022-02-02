@@ -12,11 +12,11 @@ require (
 	github.com/onsi/gomega v1.15.0
 	github.com/openshift/api v3.9.1-0.20190424152011-77b8897ec79a+incompatible
 	github.com/openshift/cloud-credential-operator v0.0.0-20211102171825-9d7d082fe277
-	github.com/operator-framework/operator-sdk v1.14.0
+	github.com/operator-framework/operator-sdk v1.16.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.11.0
 	github.com/sirupsen/logrus v1.8.1
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	golang.org/x/net v0.0.0-20210825183410-e898025ed96a
 	k8s.io/api v0.22.2
 	k8s.io/apiextensions-apiserver v0.22.2
 	k8s.io/apimachinery v0.22.2
@@ -138,7 +138,7 @@ require (
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2-0.20190823105129-775207bd45b6 // indirect
 	github.com/opencontainers/runc v0.1.1 // indirect
-	github.com/operator-framework/api v0.10.7 // indirect
+	github.com/operator-framework/api v0.11.1-0.20220110184307-ff6b5ebe3c25 // indirect
 	github.com/operator-framework/java-operator-plugins v0.1.0 // indirect
 	github.com/operator-framework/operator-registry v1.17.4 // indirect
 	github.com/otiai10/copy v1.2.0 // indirect
@@ -190,7 +190,7 @@ require (
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
 	golang.org/x/sys v0.0.0-20210917161153-d61c044b1678 // indirect
 	golang.org/x/term v0.0.0-20210503060354-a79de5458b56 // indirect
-	golang.org/x/text v0.3.6 // indirect
+	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
 	golang.org/x/tools v0.1.5 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
